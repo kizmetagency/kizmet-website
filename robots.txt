@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.kizmetagency.com/sitemap.xml
+
+# Block admin or private paths if added later
+Disallow: /admin/
+Disallow: /private/
